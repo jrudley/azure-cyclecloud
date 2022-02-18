@@ -4,4 +4,4 @@
 #
 sudo mkdir -p /shared/scratch/pi
 sudo cp -r /tmp/azure-cyclecloud/. /shared/scratch/pi
-sudo chown 750 /shared/scratch/pi/runpi.sh
+
