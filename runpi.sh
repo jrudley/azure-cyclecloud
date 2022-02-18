@@ -4,4 +4,4 @@
 #
 sudo mkdir -p /shared/scratch/pi
 sudo cp -r /tmp/azure-cyclecloud/. /shared/scratch/pi
-sbatch -N 2 -p hpc /shared/home/azure-cyclecloud/pi.sh
+sbatch -N 2 -p hpc /shared/scratch/azure-cyclecloud/pi.sh
